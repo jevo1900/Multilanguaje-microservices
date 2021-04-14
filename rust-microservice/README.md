@@ -66,4 +66,4 @@ This client registers with eureka by default. You can disable registration by se
 if you just want to use this client to make requests.
 
 
-created by: (shssoichiro)[https://github.com/shssoichiro/eureka-rs]
+created by: [shssoichiro](https://github.com/shssoichiro/eureka-rs)
